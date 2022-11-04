@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-##Screenshot
+## Screenshot
 
 <img width="1440" alt="Screen Shot 2022-11-04 at 12 23 46 PM" src="https://user-images.githubusercontent.com/117466305/200026002-7ebd4e5b-b188-464a-aacc-59f89265d506.png">
 
